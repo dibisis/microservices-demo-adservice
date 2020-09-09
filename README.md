@@ -1,4 +1,4 @@
-## microservice demo 의 checkout MS 저장소
+## microservice demo 의 adservice  저장소
 
 
 * 전체 MSA 저장소
